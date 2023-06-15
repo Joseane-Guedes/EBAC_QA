@@ -1,2 +1,2 @@
-# EBAC_QA
-Repositório criado para estudos - curso Engenheiro de Qualidade de Software
+# EBAC - Escola Britânica de Artes Criativas e Tecnologia
+Repositório criado para estudos - Engenheiro de Qualidade de Software
